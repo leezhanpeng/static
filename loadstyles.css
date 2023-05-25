@@ -8,6 +8,10 @@ body {
   text-align: center;
 }
 
+a {
+  cursor: default;
+}
+
 .whole-thing {
   height: 500px;
 }
